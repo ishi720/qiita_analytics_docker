@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/ishi720/qiita_analytics
